@@ -1,0 +1,111 @@
+body {
+    color: #333;
+}
+
+.nav-link {
+  font-size: 15px;
+}
+
+.news {
+  color: #834205dc;
+  font-weight: bold;
+  font-size: 24px; 
+}
+
+.circulation {
+  color: #834205dc;
+  font-weight: bold;
+  text-align: center;
+}
+
+.circulation-img {
+  border-radius: 20px;
+  border: 5px #cfcece  solid;
+}
+
+.circulation-text {
+  text-align: center;
+}
+
+
+.news-background {
+  margin-right: 0;
+  margin-left: 0;
+  /* background-color: #e3f7d7 */
+}
+
+.title {
+  font-family: Verdana;
+  font-weight: normal;
+  font-size: 30px;
+  color: #ee9004;
+  text-align: center;
+}
+
+hr {
+  background-color: #f7a122;
+  width: 75%;
+}
+
+.introduction {
+  font-size: 16px;
+  text-align: center;
+}
+
+.about {
+  font-size: 16px;
+}
+
+.message {
+  text-align: center;
+  font-size: 16px;
+}
+h5 {
+  text-align: center;
+  font-size: 18px;
+}
+
+#herbtitle {
+  color: #ee9004;
+}
+
+#yakuzenteatitle {
+  color: #118f06dc;
+}
+
+#yakuzenryourititle {
+  color: #834205dc;
+}
+
+.herbtea {
+  background-color:#fce4ec;
+}
+
+.yakuzentea {
+  background-color: #fff8e1; 
+}
+
+.yakuzenryouri {
+  background-color: #f7e5dc;
+}
+
+/* .img-fluid {
+  border-width: 5px;
+  border-style: solid;
+  border-color: #e0e0e0;
+} */
+
+.social {
+  list-style-type: none;
+  display: flex;
+  margin: 0;
+  padding: 0;
+}
+
+.footer {
+  background-color: #bdbdbd;
+  margin: 0;
+  padding-top: 10px;
+  padding-bottom: 40px;
+  color: white;
+}
