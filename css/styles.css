@@ -6,10 +6,17 @@ body {
   font-size: 15px;
 }
 
+.top-message {
+  color: #834205dc;
+  font-weight: normal;
+  font-size: 16px; 
+  text-align: center;
+}
+
 .news {
   color: #834205dc;
   font-weight: bold;
-  font-size: 24px; 
+  font-size: 20px; 
 }
 
 .circulation {
@@ -31,7 +38,6 @@ body {
 .news-background {
   margin-right: 0;
   margin-left: 0;
-  /* background-color: #e3f7d7 */
 }
 
 .title {
@@ -88,12 +94,6 @@ h5 {
 .yakuzenryouri {
   background-color: #f7e5dc;
 }
-
-/* .img-fluid {
-  border-width: 5px;
-  border-style: solid;
-  border-color: #e0e0e0;
-} */
 
 .social {
   list-style-type: none;
