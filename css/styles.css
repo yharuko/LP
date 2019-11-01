@@ -13,6 +13,10 @@ body {
   text-align: center;
 }
 
+.news-background {
+  background-color: #f8e6da;
+}
+
 .news {
   color: #834205dc;
   font-weight: bold;
