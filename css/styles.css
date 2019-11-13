@@ -6,10 +6,17 @@ body {
   font-size: 15px;
 }
 
-.top-message {
+/* .top-message {
   color: #834205dc;
   font-weight: normal;
   font-size: 16px; 
+  text-align: center;
+} */
+
+.introduction {
+  color: #834205dc;
+  font-weight: bold;
+  font-size: 20px; 
   text-align: center;
 }
 
