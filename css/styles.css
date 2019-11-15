@@ -22,6 +22,8 @@ body {
 
 .news-background {
   background-color: #f8e6da;
+  margin-right: 0;
+  margin-left: 0;
 }
 
 .news {
@@ -46,11 +48,15 @@ body {
   text-align: center;
 }
 
+.popular {
+  color: #834205dc;
+  text-align: center;
+  }
 
-.news-background {
-  margin-right: 0;
-  margin-left: 0;
+h1 {
+  font-size: 24px;
 }
+
 
 .title {
   font-family: Verdana;
