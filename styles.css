@@ -1,0 +1,121 @@
+body {
+    color: #333;
+}
+
+.nav-link {
+  font-size: 15px;
+}
+
+/* .top-message {
+  color: #834205dc;
+  font-weight: normal;
+  font-size: 16px; 
+  text-align: center;
+} */
+
+.introduction {
+  color: #834205dc;
+  font-weight: normal;
+  font-size: 20px; 
+  text-align: center;
+}
+
+.news-background {
+  background-color: #f8e6da;
+  margin-right: 0;
+  margin-left: 0;
+}
+
+#news {
+  color: #834205dc;
+  font-weight: normal;
+  font-size: 20px; 
+  text-align: center;
+}
+
+.circulation {
+  color: #834205dc;
+  font-weight: normal;
+  text-align: center;
+}
+
+.christmasblend-img {
+  /* border-radius: 20px; */
+  border: 5px #ffffff  solid;
+}
+
+.christmas-text {
+  color: #834205dc;
+  text-align: center;
+}
+
+.popular {
+  color: #834205dc;
+  text-align: center;
+  }
+
+h1 {
+  font-size: 18px;
+}
+
+hr {
+  background-color: #f7a122;
+  width: 75%;
+}
+
+.introduction {
+  font-size: 16px;
+  text-align: center;
+}
+
+.about {
+  font-size: 16px;
+}
+
+.message {
+  text-align: center;
+  font-size: 16px;
+}
+h5 {
+  text-align: center;
+  font-size: 16px;
+}
+
+#herbtitle {
+  color: #ee9004;
+}
+
+#yakuzenteatitle {
+  color: #118f06dc;
+}
+
+#yakuzenryourititle {
+  color: #834205dc;
+}
+
+/* .herbtea {
+  background-color:#fce4ec;
+} */
+
+.yakuzentea {
+  background-color: #fff8e1; 
+}
+
+.yakuzenryouri {
+  background-color: #f7e5dc;
+}
+
+.social {
+  list-style-type: none;
+  display: flex;
+  margin: 0;
+  padding: 0;
+}
+
+.footer {
+  background-color: #bdbdbd;
+  margin: 0;
+  padding-top: 10px;
+  padding-bottom: 40px;
+  color: white;
+}
