@@ -34,8 +34,7 @@ body {
 }
 
 .feature {
-  color: #834205dc;
-  font-size: 28px;
+  font-size: 24px;
   font-weight: normal;
   text-align: center;
 }
@@ -44,8 +43,7 @@ body {
   border: 5px #ffffff  solid;
 }
 
-.christmas-text {
-  color: #834205dc;
+.feature-text {
   text-align: center;
 }
 
@@ -55,7 +53,7 @@ body {
   }
 
 h1 {
-  font-size: 18px;
+  font-size: 22px;
 }
 
 hr {
