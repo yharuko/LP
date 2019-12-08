@@ -21,7 +21,7 @@ body {
 }
 
 .news-background {
-  background-color: #f8e6da;
+  background-color: #e7f7cf;
   margin-right: 0;
   margin-left: 0;
 }
@@ -33,14 +33,14 @@ body {
   text-align: center;
 }
 
-.circulation {
+.feature {
   color: #834205dc;
+  font-size: 28px;
   font-weight: normal;
   text-align: center;
 }
 
 .christmasblend-img {
-  /* border-radius: 20px; */
   border: 5px #ffffff  solid;
 }
 
@@ -93,9 +93,9 @@ h5 {
   color: #834205dc;
 }
 
-/* .herbtea {
+.herbtea {
   background-color:#fce4ec;
-} */
+}
 
 .yakuzentea {
   background-color: #fff8e1; 
