@@ -15,7 +15,7 @@ body {
 
 .introduction {
   color: #834205dc;
-  font-weight: bold;
+  font-weight: normal;
   font-size: 20px; 
   text-align: center;
 }
@@ -26,25 +26,26 @@ body {
   margin-left: 0;
 }
 
-.news {
+#news {
   color: #834205dc;
-  font-weight: bold;
+  font-weight: normal;
   font-size: 20px; 
   text-align: center;
 }
 
 .circulation {
   color: #834205dc;
-  font-weight: bold;
+  font-weight: normal;
   text-align: center;
 }
 
-.circulation-img {
-  border-radius: 20px;
-  border: 5px #cfcece  solid;
+.christmasblend-img {
+  /* border-radius: 20px; */
+  border: 5px #ffffff  solid;
 }
 
-.circulation-text {
+.christmas-text {
+  color: #834205dc;
   text-align: center;
 }
 
@@ -54,15 +55,7 @@ body {
   }
 
 h1 {
-  font-size: 22px;
-}
-
-.title {
-  font-family: Verdana;
-  font-weight: normal;
-  font-size: 30px;
-  color: #ee9004;
-  text-align: center;
+  font-size: 18px;
 }
 
 hr {
@@ -85,7 +78,7 @@ hr {
 }
 h5 {
   text-align: center;
-  font-size: 18px;
+  font-size: 16px;
 }
 
 #herbtitle {
@@ -100,9 +93,9 @@ h5 {
   color: #834205dc;
 }
 
-.herbtea {
+/* .herbtea {
   background-color:#fce4ec;
-}
+} */
 
 .yakuzentea {
   background-color: #fff8e1; 
