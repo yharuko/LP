@@ -54,6 +54,15 @@ h1 {
   text-align: center;
 }
 
+.customervoice {
+  text-align: center;
+  color: #f59323;
+}
+
+.shadow {
+  background-color: #fcdcbe;
+}
+
 .about {
   font-size: 16px;
 }
@@ -93,6 +102,10 @@ h5 {
 
 .about_health {
   background-color: #fcebeb;
+}
+
+.shoplink {
+  color: #834205dc;
 }
 
 .social {
