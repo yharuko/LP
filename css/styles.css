@@ -47,6 +47,8 @@ body {
 
 h1 {
   font-size: 22px;
+  border-bottom: double 6px #834205dc;
+
 }
 
 .introduction {
