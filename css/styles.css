@@ -56,11 +56,11 @@ h1 {
 
 .voice {
   text-align: center;
-  color: #f59323;
+  color: #ff0000;
 }
 
 .shadow {
-  background-color: #fcdcbe;
+  border: double #ff0000;
 }
 
 .about {
