@@ -7,7 +7,7 @@ body {
 }
 
 .introduction {
-  color: #834205dc;
+  /* color: #834205dc; */
   font-weight: normal;
   font-size: 20px; 
   text-align: center;
@@ -20,7 +20,7 @@ body {
 }
 
 #news {
-  color: #834205dc;
+  /* color: #834205dc; */
   font-weight: normal;
   font-size: 20px; 
   text-align: center;
@@ -41,13 +41,13 @@ body {
 }
 
 .popular {
-  color: #834205dc;
+  /* color: #834205dc; */
   text-align: center;
   }
 
 h1 {
   font-size: 22px;
-  border-bottom: double 6px #834205dc;
+  /* border-bottom: double 6px #834205dc; */
 
 }
 
@@ -58,7 +58,7 @@ h1 {
 
 .voice {
   text-align: center;
-  border-bottom: double 6px #ff0000;
+  /* border-bottom: double 6px #ff0000; */
 }
 
 .shadow {
@@ -107,7 +107,7 @@ h5 {
 }
 
 .shoplink {
-  color: #834205dc;
+  /* color: #834205dc; */
 }
 
 .social {
